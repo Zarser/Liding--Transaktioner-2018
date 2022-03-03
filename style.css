@@ -20,11 +20,4 @@ table th{
 table td{
     border: 1px solid black;
 }
-#search{
-    width: 230px;
-    height: 30px;
-    border: 1px solid black;
-    outline: none;
-    border-radius: 10px;
-    margin:0 0 0 15px;
-}
+

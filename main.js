@@ -1,6 +1,8 @@
 // api url
 const api_url = "https://raw.githubusercontent.com/HackersOfSweden/Ekonomy/main/Levfakturor_Lidingo_Stad_2018.json";
+const SEARCHAPI = "https://raw.githubusercontent.com/HackersOfSweden/Ekonomy/main/Levfakturor_Lidingo_Stad_2018.json";
 // Defining async function
+const search = document.getElementById("search");
 async function getapi(url) {
     
     // Storing response
